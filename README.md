@@ -1,5 +1,5 @@
 # HDMReforme
-Réforme du site HDMNetwork.com
+Réfonte du site HDMNetwork.com
 
 # Challenge
 
